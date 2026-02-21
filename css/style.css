@@ -3,7 +3,8 @@ html {
     color: white;
 }
 nav {
-   color: #007BFF;
+   background-color: black;
+    color: #007BFF;
 }
 p {
     font-family: Times New Roman;
