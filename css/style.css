@@ -6,6 +6,7 @@ nav {
    background-color: black;
     color: #007BFF;
 }
-p.bold {
-    font-family: 'Times New Roman', Times, serif;
+p {
+    font-family: serif;
+    font-weight: bold;
 }
