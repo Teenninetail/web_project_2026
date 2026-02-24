@@ -1,18 +1,24 @@
-html {
-    background-color: black;
-    color: white;
+body {
+    background-color:#000000;
+    color:#FFFFFF;
     font-size: 16px;
+    font-family: arial, sans-serif;
 }
-nav {
-   background-color: black;
-    color: #007BFF;
-    font-size: 1.5em;
+
+#main-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
 }
-p {
-    font-family: serif;
+.highlight {
+    color: #FFD700;
     font-weight: bold;
+}
+nav a {
+    color: #66B2FF;
     font-size: 1.2rem;
 }
 article {
-    border: 5px solid gray;
+    border: 2px solid #FFFFFF;
+    margin: 1rem;
 }
