@@ -28,11 +28,9 @@ article {
     border: 2px solid #FFFFFF;
     margin: 1rem;
     padding: 1.5rem;
-    border-radius: 8px;
 }
 section {
     margin-bottom: 2rem;
     padding: 1rem;
     background-color: #111111;
-    border-radius: 6px;
 }
