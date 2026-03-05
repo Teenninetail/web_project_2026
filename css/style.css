@@ -24,6 +24,10 @@ nav a {
     color: #66B2FF;
     font-size: 1.2rem;
 }
+nav a:visited {
+    color: #66B2FF;
+    font-size: 1.2rem;
+}
 article {
     border: 2px solid #FFFFFF;
     margin: 1rem;
@@ -34,10 +38,6 @@ section {
     padding: 1rem;
     background-color: #111111;
 }
-{
+* {
     box-sizing: border-box;
-}
-nav a:visited {
-    color: #66B2FF;
-    font-size: 1.2rem;
 }
