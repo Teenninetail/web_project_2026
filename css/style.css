@@ -81,3 +81,13 @@ section {
 #more_smart li{
     list-style-type: "🧐";
 }
+#VS {
+    background-image: url("media/vs_code.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  padding: 100px 20px;
+  color: black;
+  text-align: center;
+  opacity: 0.85;
+}
