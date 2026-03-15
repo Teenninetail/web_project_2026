@@ -72,10 +72,10 @@ section {
 * {
     box-sizing: border-box;
 }
-.vulcan {
+#vulcan li{
     list-style-type: "😎";
 }
-.smart {
+#smart li{
     list-style-type: "🤓";
 }
 #more_smart li{
