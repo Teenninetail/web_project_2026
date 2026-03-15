@@ -78,6 +78,6 @@ section {
 .smart {
     list-style-type: "🤓";
 }
-.more_smart {
+#more_smart li{
     list-style-type: "🧐";
 }
