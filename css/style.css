@@ -72,3 +72,12 @@ section {
 * {
     box-sizing: border-box;
 }
+.vulcan {
+    list-style-type: "U+1F60E";
+}
+.smart {
+    list-style-type: "U+1F913";
+}
+.more_smart {
+    list-style-type: "U+1F9D0";
+}
