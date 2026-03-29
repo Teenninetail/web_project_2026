@@ -68,6 +68,10 @@ section {
     margin-bottom: 2rem;
     padding: 1rem;
     background-color: #111111;
+    display: flex;
+    gap: 50px;
+    flex-flow: row wrap;
+    justify-content: center;
 }
 * {
     box-sizing: border-box;
@@ -80,4 +84,11 @@ section {
 }
 #more_smart li{
     list-style-type: "🧐";
+}
+two-column {
+    display: flex;
+    gap: 20px;
+}
+two-column > div {
+    flex: 1;
 }
